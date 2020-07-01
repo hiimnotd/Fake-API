@@ -1,0 +1,10 @@
+[
+  {
+    name: "Nguyen Tien Dung",
+    company: "Inlab JSC",
+    phone: "0966778899",
+    email: "dung@inlab.com.vn",
+    interested: ["image-classification", "audio-transcription"]
+    content: "MÌnh rất muốn mua bộ dữ liệu của bên bạn!"
+}
+]
